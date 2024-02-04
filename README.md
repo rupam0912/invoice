@@ -33,4 +33,4 @@ npm start / npm run build
 
 ### Meta
 
-John Uberbacher – [johnuberbacher.com](https://johnuberbacher.com)
+Rupam Sinha – (https://rupam-sinha.netlify.com)
